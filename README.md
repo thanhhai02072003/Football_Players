@@ -1,8 +1,6 @@
 # Football Player Data Analysis
 ## Overview
-## Overview
-This repository contains data and tools for analyzing football player statistics from the top 5 European leagues (Premier League, La Liga, Serie A, Bundesliga, Ligue 1). 
-The project includes raw data in CSV format, SQL scripts for data processing, and a Power BI dashboard for visualizing player statistics.
+This repository contains data and tools for analyzing football player statistics from the top 5 European leagues (Premier League, La Liga, Serie A, Bundesliga, Ligue 1). The project includes raw data in CSV format, SQL scripts for data processing, and a Power BI dashboard for visualizing player statistics.
 ## Repository Structure
 
 - `football_player.pbix`: A Power BI file containing visualizations of football player data, such as performance metrics, comparisons, and trends.
